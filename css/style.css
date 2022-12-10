@@ -1,2 +1,188 @@
-@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed:wght@700&family=Encode+Sans:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed:wght@700&family=Encode+Sans:wght@700&display=swap");
+
+.top-bar {
+  height: 80px;
+  background-color: #E5E5E5;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-globo {
+  height: 36px;
+}
+
+.horizontal-border {
+    border-bottom: 1px solid #F5F6F7;
+    width: 100%;
+}
+
+.menu-bar {
+  background-color: #E5E5E5;;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-g1 {
+  width: 40px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #c3170c;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-oglobo {
+  width: 89px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #1e4b9b;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-valor {
+  width: 70px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #006766;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-ge {
+  width: 45px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #07aa47;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-cartola {
+  width: 86px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #e3662b;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-globoplay {
+  width: 113px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #fb0735;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-dropz {
+  width: 75px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #ff75bb;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-gshow {
+  width: 84px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #ec7d00;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-quem {
+  width: 74px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #323333;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text-receitas {
+  width: 93px;
+  height: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  color: #a81d83;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.vertical-line {
+  height: 845px;
+  border-left: 1px solid #ec2f0d;
+  text-align: left;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.page-content {
+  text-align: justify;
+  margin: 30px 30px 30px 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-story {
+  font-size: 52px;
+  font-weight: bold;
+  color: #c4160c;
+  width: 624px;
+  height: 201px;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.secondary-matter {
+  font-size: 18px;
+  font-weight: 500;
+  color: #303134;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 
