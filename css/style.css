@@ -9,7 +9,6 @@ body {
 .top-bar {
   height: 80px;
   background-color: #ffffff;
-  font-family: "Encode Sans", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,7 +16,6 @@ body {
 
 /* logo globo.com initial bar */
 .logo-globo {
-  font-family: "Encode Sans", sans-serif;
   width: 171px;
   height: 36px;
 }
@@ -201,10 +199,12 @@ body {
 /* main story text */
 .main-story-text {
   font-size: 52px;
+  line-height: 1.2;
   font-weight: bold;
   color: #c4160c;
   font-family: "Encode Sans", sans-serif;
   font-weight: 700;
+  margin-top: 30px;
   width: 624px;
   height: 201px;
   text-decoration: none;
@@ -222,6 +222,7 @@ body {
 /* first minor material text */
 .text-1 {
   font-size: 18px;
+  margin-top: 15px;
   color: #303134;
   font-family: "Encode Sans", sans-serif;
   font-weight: 500;
@@ -237,6 +238,7 @@ body {
 /* second secondary material text */
 .text-2 {
   font-size: 18px;
+  margin-top: 20px;
   color: #303134;
   font-family: "Encode Sans", sans-serif;
   font-weight: 500;
@@ -247,7 +249,8 @@ body {
 .small-horizontal-border {
   border-bottom: 1px solid #ebedef;
   width: 624px;
-  margin: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -279,6 +282,7 @@ img {
 .first-paragraph {
   width: 192px;
   height: 19px;
+  line-height: 1.3;
   font-family: "Encode Sans", sans-serif;
   font-weight: 500;
   font-size: 14px;
@@ -292,6 +296,7 @@ img {
 .second-paragraph {
   width: 240px;
   height: 84px;
+  line-height: 1.3;
   font-family: "Encode Sans", sans-serif;
   font-weight: 700;
   font-size: 20px;
@@ -305,6 +310,7 @@ img {
 .third-paragraph {
   width: 174px;
   height: 42.5px;
+  line-height: 1.3;
   font-family: "Encode Sans", sans-serif;
   font-weight: 400;
   font-size: 14px;
@@ -317,6 +323,7 @@ img {
 /* second matter of photo content */
 .second-matter {
   width: 200px;
+  line-height: 1.3;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -344,7 +351,7 @@ img {
 .vertical-border-1 {
   border-right: 1px solid #ebedef;
   height: 800px;
-  margin-right: 50px;
+  margin-right: 30px;
   margin-left: 30px;
   display: flex;
   align-items: center;
@@ -356,8 +363,8 @@ img {
   margin-top: 40px;
   margin-right: 30px;
   margin-left: 30px;
-  /* display: flex;
-    align-items: center; */
+  display: flex;
+  align-items: center;
 }
 
 /* second news content container */
@@ -396,6 +403,7 @@ img {
 .first-paragraph-news {
   width: 240px;
   height: 19px;
+  line-height: 1.3;
   font-family: "Encode Sans", sans-serif;
   font-weight: 500;
   font-size: 14px;
@@ -410,6 +418,7 @@ img {
 .second-paragraph-news {
   width: 300px;
   height: 84px;
+  line-height: 1.3;
   font-family: "Encode Sans", sans-serif;
   font-weight: 700;
   font-size: 20px;
@@ -423,10 +432,12 @@ img {
 .second-paragraph-news-2 {
   width: 300px;
   height: 60px;
+  line-height: 1.3;
   font-family: "Encode Sans", sans-serif;
   font-weight: 700;
   font-size: 20px;
   color: #2f3134;
+  margin-bottom: 20px;
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -434,8 +445,9 @@ img {
 
 /* third paragraph of the news */
 .third-paragraph-news {
-  width: 217px;
+  width: 240px;
   height: 43px;
+  line-height: 1.5;
   font-family: "Encode Sans", sans-serif;
   font-weight: 400;
   font-size: 14px;
@@ -473,7 +485,7 @@ img {
 /* first news container */
 .first-news-1 {
   width: 240px;
-  margin-top: 38px;
+  margin-top: 30px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -498,6 +510,7 @@ img {
   font-family: "Encode Sans", sans-serif;
   font-weight: 700;
   font-size: 20px;
+  line-height: 1.3;
   color: #2f3134;
   display: flex;
   align-items: center;
