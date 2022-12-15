@@ -14,6 +14,8 @@
 
 <br>
 
+____
+
 #### There was a bonus challenge to make the page adapt to lower resolution screens without affecting the desktop view.
 I implemented the layout for 370 x 600 resolution.
 
