@@ -26,4 +26,4 @@ I implemented the layout for 370 x 600 resolution.
 - [ ] The news must be stacked, as shown in the *mobile layout*.
 
 <br>
-<img width="110" alt="Captura de Tela 2022-12-14 às 22 44 17" src="https://user-images.githubusercontent.com/95102911/207754969-05b57342-0667-4cdf-b693-348947f1f23e.png">
+<img width="250" alt="Captura de Tela 2022-12-14 às 22 44 17" src="https://user-images.githubusercontent.com/95102911/207754969-05b57342-0667-4cdf-b693-348947f1f23e.png">
