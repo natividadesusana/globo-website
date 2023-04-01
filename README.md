@@ -1,4 +1,4 @@
-# Project: Globo.com Main Page Layout
+# Globo.com Main Page Layout
 This project consists of replicating the layout of Globo.com's home page using HTML and CSS, including the ability to adapt to lower resolution screens.
 
 <img width="969" alt="Captura de Tela 2022-12-14 às 22 37 33" src="https://user-images.githubusercontent.com/95102911/207753024-8b756ae5-bd41-4800-9dcd-160a7d9fee15.png">
