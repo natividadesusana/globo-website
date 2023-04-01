@@ -1,22 +1,44 @@
-# Globo Website Project 
+# Project: Globo.com Main Page Layout
+This project consists of replicating the layout of Globo.com's home page using HTML and CSS, including the ability to adapt to lower resolution screens.
 
-## Globo.com main page layout with html and css.
-
-<br>
 <img width="969" alt="Captura de Tela 2022-12-14 às 22 37 33" src="https://user-images.githubusercontent.com/95102911/207753024-8b756ae5-bd41-4800-9dcd-160a7d9fee15.png">
 
-<br>
+#### Demo: https://globo-website-project.vercel.app/
 
-____
+## About
+The main objective of this project was to challenge my web development skills, especially regarding responsive design. In addition, I wanted to improve my knowledge of HTML and CSS, as well as try new layout and styling techniques.
 
-#### There was a bonus challenge to make the page adapt to lower resolution screens without affecting the desktop view.
-`I implemented the layout for >> 370 x 600 << resolution.`
+## Features
+- Responsive layout for lower resolution screens
+- Use of advanced CSS techniques such as Flexbox and Grid
+- Implementation of mobile logo and navigation menu for smaller screens
 
-#### Requirements:
+## Next steps
+- Add more interactivity and animations with JavaScript
+- Improve website accessibility for visually impaired users
+- Integrate the site with a news API to display real-time news
 
-- [ ] The logo must change to the *mobile* logo;
-- [ ] The navigation menu must be under the logo;
-- [ ] The news must be stacked, as shown in the *mobile layout*.
+## Technologies
 
-<br>
-<img width="250" alt="Captura de Tela 2022-12-14 às 22 44 17" src="https://user-images.githubusercontent.com/95102911/207754969-05b57342-0667-4cdf-b693-348947f1f23e.png">
+- HTML5
+- CSS3
+- Flexbox
+- Grid
+
+I chose to use these technologies because they offer a high degree of flexibility and control over the layout and styling of the site, especially with regards to responsive design.
+
+## How to run
+To run this project on your local machine, follow these steps:
+
+1. Clone this repository:
+
+        git clone https://github.com/natividadesusana/globo-website.git
+        
+3. Access the project folder:
+
+       cd repo-name
+
+4. Open the index.html file in your browser of choice
+
+## How to contribute
+Contributions are always welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or pull request.
